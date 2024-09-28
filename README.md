@@ -5,13 +5,16 @@
 
 - 🌱 I’m currently learning **Machine Learning.**
 
-- 👨‍💻 All of my projects are available at [my GitHub.](my GitHub.)
+- 👨‍💻 All of my projects are available at [GitHub.com/applehx7](GitHub.com/applehx7)
+
+- ⚡ Fun fact **My coffee consumption is directly proportional to my code quality.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/applehx7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="applehx7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/applehx7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="applehx7" height="30" width="40" /></a>
 <a href="https://kaggle.com/applehx7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="applehx7" height="30" width="40" /></a>
+<a href="https://fb.com/61555808465530" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="61555808465530" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
