@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning.**
 
-- 👨‍💻 All of my projects are available at [GitHub.com/applehx7](GitHub.com/applehx7)
+- 👨‍💻 All of my projects are available at [https://github.com/applehx7](GitHub)
 
 - ⚡ Fun fact **My coffee consumption is directly proportional to my code quality.**
 
